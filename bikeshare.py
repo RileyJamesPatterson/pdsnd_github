@@ -37,10 +37,10 @@ def select_city():
     Returns:
         (str) city - name of the city to analyze
     """
-    print('Hello! Let\'s explore some US bikeshare data!\n')
+    print('Welcome! Let\'s explore some US bikeshare data!\n')
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     while 1:
-        print('\n Please select the city of interest from the following list:')
+        print('\n Please select a city of interest from the following list:')
         for key in CITY_DATA:
             print(key.title())
         city = input().lower()
