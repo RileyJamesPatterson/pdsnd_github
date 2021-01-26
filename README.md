@@ -1,15 +1,18 @@
 ### Date created
-Include the date you created this project and README file.
+Created January 25 2021
 
 ### Project Title
-Replace the Project Title
+Udacity Bike Share 'Explore US bikeshare Data' and 'Post your work on GitHub' project
 
 ### Description
-Describe what your project is about and what it does
+A python script to elicit input from a user to explore bike share data from three us cities.
 
 ### Files used
-Include the files used
+Motivate (bike share system provider) CSV files:
+Chicago.CSV
+New_York_city.CSV
+Washington.CSV
+bikeshare.py, a python script using the Pandas and Numpy packages.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+This project is part of Udacity's "Programming for Data Science with Python"
