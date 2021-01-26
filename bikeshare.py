@@ -70,7 +70,7 @@ def extract_cols(df):
     Creates DateTime and trip columns. Remaps days and month columns from integer index to strings
 
     Inputs:
-        Pandas.dataframe - The raw unfiltered dataframe of the selected city
+        Pandas.dataframe - The raw dataframe of the selected city
     Returns:
         Pandas.dataframe - The dataframe of the selected city with additional time and trip columns
     """
