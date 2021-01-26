@@ -1,5 +1,6 @@
 ### Date created
-Created January 25 2021
+Bike Share projected Created January 20th 2021
+Published on GitHub January 25th 2021
 
 ### Project Title
 Udacity Bike Share 'Explore US bikeshare Data' and 'Post your work on GitHub' project
