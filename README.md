@@ -6,7 +6,8 @@ Published on GitHub January 25th 2021
 Udacity Bike Share 'Explore US bikeshare Data' and 'Post your work on GitHub' project
 
 ### Description
-A python script to elicit input from a user to explore bike share data from three us cities.
+A python script to elicit input from a user, load csv data and
+explore bike share data from three us cities.
 
 ### Files used
 Motivate (bike share system provider) CSV files:
