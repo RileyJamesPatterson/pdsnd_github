@@ -119,7 +119,7 @@ def get_filters(df):
             print("\n Oops! Please enter a listed month as a number or 'all'.\n\n")
 
     # a failure message for unaticipated day input
-    day_failure='''\n Oops! you didnt select a day of the week. Please choose from: \n
+    day_failure='''\n Oops! You didn't select a day of the week. Please choose from: \n
     'monday','tuesday','wednesday','thursday','friday','saturday','sunday' or 'all'
     '''
 
